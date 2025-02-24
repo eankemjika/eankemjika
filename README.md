@@ -1,4 +1,4 @@
-# Hello👋
+## Hello World! 👋
 
 Welcome to my GitHub profile! I'm Nkemjika Emmanuel Amah, a B.Eng. Computer and Communication Engineering student at Abubakar Tafawa Balewa University, and I'm embarking on an exciting journey into the world of programming.
 I'm excited to learn and grow as a programmer, and I'm using GitHub to document my progress and share my projects.
